@@ -1,0 +1,276 @@
+Quick-Cocos2d-x C++ support ready.
+
+------------------------------------------------
+
+LOAD LUA FILE: E:/cocos/quick_3.3_Demo/flappy/src/main.lua
+
+------------------------------------------------
+
+[LUA-print] ===========================================================
+
+[LUA-print]               LOAD QUICK FRAMEWORK
+
+[LUA-print] ===========================================================
+
+[LUA-print] [INFO] 
+
+[LUA-print] [INFO] # DEBUG                        = 1
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # device.platform              = windows
+
+[LUA-print] [INFO] # device.model                 = unknown
+
+[LUA-print] [INFO] # device.language              = cn
+
+[LUA-print] [INFO] # device.writablePath          = E:\cocos\quick_3.3_Demo\flappy\
+
+[LUA-print] [INFO] # device.directorySeparator    = \
+
+[LUA-print] [INFO] # device.pathSeparator         = ;
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_HEIGHT
+
+[LUA-print] [INFO] # CONFIG_SCREEN_WIDTH          = 960.00
+
+[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 640.00
+
+[LUA-print] [INFO] # display.widthInPixels        = 960.00
+
+[LUA-print] [INFO] # display.heightInPixels       = 640.00
+
+[LUA-print] [INFO] # display.contentScaleFactor   = 1.00
+
+[LUA-print] [INFO] # display.width                = 960.00
+
+[LUA-print] [INFO] # display.height               = 640.00
+
+[LUA-print] [INFO] # display.cx                   = 480.00
+
+[LUA-print] [INFO] # display.cy                   = 320.00
+
+[LUA-print] [INFO] # display.left                 = 0.00
+
+[LUA-print] [INFO] # display.right                = 960.00
+
+[LUA-print] [INFO] # display.top                  = 640.00
+
+[LUA-print] [INFO] # display.bottom               = 0.00
+
+[LUA-print] [INFO] # display.c_left               = -480.00
+
+[LUA-print] [INFO] # display.c_right              = 480.00
+
+[LUA-print] [INFO] # display.c_top                = 320.00
+
+[LUA-print] [INFO] # display.c_bottom             = -320.00
+
+[LUA-print] [INFO] #
+
+[LUA-print] app/scenes/MainScene.lua:27 MainScene:load()
+
+[LUA-print] libs/Atlas.lua:28 bg = {height = 432, width = 768, x = 0, y = 0} --[[table: 07965DE8]]
+
+[LUA-print] libs/Atlas.lua:28 bg_2 = {height = 432, width = 400, x = 1544, y = 0} --[[table: 07E17C70]]
+
+[LUA-print] libs/Atlas.lua:28 bg_night = {height = 432, width = 768, x = 771.99998976, y = 0} --[[table: 07E1ED40]]
+
+[LUA-print] libs/Atlas.lua:28 bg_night_2 = {height = 432, width = 400, x = 0, y = 435.99998976} --[[table: 07E1F9C0]]
+
+[LUA-print] libs/Atlas.lua:28 bird0_0 = {height = 48, width = 56, x = 233.99999488, y = 1398.0000256} --[[table: 07E20640]]
+
+[LUA-print] libs/Atlas.lua:28 bird0_1 = {height = 48, width = 56, x = 312, y = 1398.0000256} --[[table: 07E21360]]
+
+[LUA-print] libs/Atlas.lua:28 bird0_2 = {height = 48, width = 56, x = 156, y = 1472} --[[table: 07DAE310]]
+
+[LUA-print] libs/Atlas.lua:28 bird1_0 = {height = 48, width = 56, x = 216, y = 1472} --[[table: 07DA0E40]]
+
+[LUA-print] libs/Atlas.lua:28 bird1_1 = {height = 48, width = 56, x = 275.99998976, y = 1472} --[[table: 07DA1E30]]
+
+[LUA-print] libs/Atlas.lua:28 bird1_2 = {height = 48, width = 56, x = 336, y = 1472} --[[table: 07DA34B0]]
+
+[LUA-print] libs/Atlas.lua:28 bird2_0 = {height = 48, width = 56, x = 0, y = 1534.00000512} --[[table: 07DA4B30]]
+
+[LUA-print] libs/Atlas.lua:28 bird2_1 = {height = 48, width = 56, x = 60, y = 1534.00000512} --[[table: 07DA60C0]]
+
+[LUA-print] libs/Atlas.lua:28 bird2_2 = {height = 48, width = 56, x = 120, y = 1534.00000512} --[[table: 07DA8280]]
+
+[LUA-print] libs/Atlas.lua:28 black = {height = 32, width = 32, x = 1948.0000512, y = 396.00001024} --[[table: 07DA9180]]
+
+[LUA-print] libs/Atlas.lua:28 blink_00 = {height = 10, width = 10, x = 390.00000512, y = 985.9999744} --[[table: 07DAAE90]]
+
+[LUA-print] libs/Atlas.lua:28 blink_01 = {height = 10, width = 10, x = 275.99998976, y = 1088} --[[table: 07DAC290]]
+
+[LUA-print] libs/Atlas.lua:28 blink_02 = {height = 10, width = 10, x = 275.99998976, y = 1102.00000512} --[[table: 07DAD500]]
+
+[LUA-print] libs/Atlas.lua:28 brand_copyright = {height = 14, width = 126.000001024, x = 241.99999488, y = 958.00000512} --[[table: 07DAF4E0]]
+
+[LUA-print] libs/Atlas.lua:28 button_continue = {height = 57.999998976, width = 73.999998976, x = 112, y = 1388.0000512} --[[table: 07B75A78]]
+
+[LUA-print] libs/Atlas.lua:28 button_continue_selected = {height = 57.999998976, width = 73.999998976, x = 302.00000512, y = 1264} --[[table: 07B7A5C8]]
+
+[LUA-print] libs/Atlas.lua:28 button_disable = {height = 68, width = 64, x = 1948.0000512, y = 323.99998976} --[[table: 07B7BFB8]]
+
+[LUA-print] libs/Atlas.lua:28 button_enable = {height = 68, width = 64, x = 248, y = 1126.0000256} --[[table: 07B7DEF8]]
+
+[LUA-print] libs/Atlas.lua:28 button_exit = {height = 57.999998976, width = 73.999998976, x = 233.99999488, y = 1336} --[[table: 07B7F8E8]]
+
+[LUA-print] libs/Atlas.lua:28 button_exit_selected = {height = 57.999998976, width = 73.999998976, x = 312, y = 1336} --[[table: 07B82DB8]]
+
+[LUA-print] libs/Atlas.lua:28 button_rate = {height = 48, width = 73.999998976, x = 248, y = 1212.0000512} --[[table: 07B84438]]
+
+[LUA-print] libs/Atlas.lua:28 button_score = {height = 57.999998976, width = 73.999998976, x = 0, y = 1472} --[[table: 07AE15F0]]
+
+[LUA-print] libs/Atlas.lua:28 button_score_selected = {height = 57.999998976, width = 73.999998976, x = 78.000001024, y = 1472} --[[table: 07ADA700]]
+
+[LUA-print] libs/Atlas.lua:28 draw = {height = 81.999998976, width = 188, x = 56, y = 1126.0000256} --[[table: 07AE7770]]
+
+[LUA-print] libs/Atlas.lua:28 egg_p1 = {height = 24, width = 24, x = 2019.9999488, y = 396.00001024} --[[table: 07AE8DF0]]
+
+[LUA-print] libs/Atlas.lua:28 egg_p2 = {height = 24, width = 24, x = 371.99998976, y = 958.00000512} --[[table: 079ADA68]]
+
+[LUA-print] libs/Atlas.lua:28 font_048 = {height = 44, width = 24, x = 2016, y = 323.99998976} --[[table: 0790D640]]
+
+[LUA-print] libs/Atlas.lua:28 font_049 = {height = 44, width = 16, x = 2032, y = 0} --[[table: 0784E320]]
+
+[LUA-print] libs/Atlas.lua:28 font_050 = {height = 44, width = 24, x = 190.00000512, y = 1388.0000512} --[[table: 07F840D8]]
+
+[LUA-print] libs/Atlas.lua:28 font_051 = {height = 44, width = 24, x = 371.99998976, y = 1398.0000256} --[[table: 07F84D58]]
+
+[LUA-print] libs/Atlas.lua:28 font_052 = {height = 44, width = 24, x = 360, y = 1534.00000512} --[[table: 07F85938]]
+
+[LUA-print] libs/Atlas.lua:28 font_053 = {height = 44, width = 24, x = 214.00000512, y = 1585.99999488} --[[table: 07F86518]]
+
+[LUA-print] libs/Atlas.lua:28 font_054 = {height = 44, width = 24, x = 241.99999488, y = 1585.99999488} --[[table: 07F87238]]
+
+[LUA-print] libs/Atlas.lua:28 font_055 = {height = 44, width = 24, x = 270.00000512, y = 1585.99999488} --[[table: 07F87E18]]
+
+[LUA-print] libs/Atlas.lua:28 font_056 = {height = 44, width = 24, x = 297.99999488, y = 1585.99999488} --[[table: 07F88A98]]
+
+[LUA-print] libs/Atlas.lua:28 font_057 = {height = 44, width = 24, x = 326.00000512, y = 1585.99999488} --[[table: 07F89718]]
+
+[LUA-print] libs/Atlas.lua:28 gameover = {height = 48, width = 188, x = 56, y = 1212.0000512} --[[table: 07F8A398]]
+
+[LUA-print] libs/Atlas.lua:28 ghost_0 = {height = 48, width = 48, x = 180, y = 1315.9999488} --[[table: 07F8AF78]]
+
+[LUA-print] libs/Atlas.lua:28 ghost_1 = {height = 48, width = 48, x = 0, y = 1633.99999488} --[[table: 07F8BBF8]]
+
+[LUA-print] libs/Atlas.lua:28 go = {height = 48, width = 57.999998976, x = 326.00000512, y = 1212.0000512} --[[table: 07F8C878]]
+
+[LUA-print] libs/Atlas.lua:28 ground = {height = 140, width = 792, x = 403.99998976, y = 435.99998976} --[[table: 07F8D458]]
+
+[LUA-print] libs/Atlas.lua:28 indicator_p1 = {height = 10, width = 14, x = 382.00000512, y = 944} --[[table: 07F8E178]]
+
+[LUA-print] libs/Atlas.lua:28 indicator_p2 = {height = 10, width = 14, x = 371.99998976, y = 985.9999744} --[[table: 07F8EE48]]
+
+[LUA-print] libs/Atlas.lua:28 lose = {height = 81.999998976, width = 164, x = 228, y = 1001.9999744} --[[table: 07F8FA28]]
+
+[LUA-print] libs/Atlas.lua:28 medals_0 = {height = 44, width = 44, x = 2003.9999488, y = 208} --[[table: 07F906A8]]
+
+[LUA-print] libs/Atlas.lua:28 medals_1 = {height = 44, width = 44, x = 2003.9999488, y = 256} --[[table: 07F91328]]
+
+[LUA-print] libs/Atlas.lua:28 medals_2 = {height = 44, width = 44, x = 118.000001024, y = 1585.99999488} --[[table: 07F91F08]]
+
+[LUA-print] libs/Atlas.lua:28 medals_3 = {height = 44, width = 44, x = 166.00000512, y = 1585.99999488} --[[table: 07F92B88]]
+
+[LUA-print] libs/Atlas.lua:28 milestone_0 = {height = 44, width = 54.000001024, x = 60, y = 1585.99999488} --[[table: 07FA1C30]]
+
+[LUA-print] libs/Atlas.lua:28 milestone_1 = {height = 44, width = 56, x = 180, y = 1534.00000512} --[[table: 07FA2860]]
+
+[LUA-print] libs/Atlas.lua:28 milestone_2 = {height = 44, width = 56, x = 240, y = 1534.00000512} --[[table: 07FA3440]]
+
+[LUA-print] libs/Atlas.lua:28 milestone_3 = {height = 44, width = 56, x = 300.00001024, y = 1534.00000512} --[[table: 07FA4020]]
+
+[LUA-print] libs/Atlas.lua:28 milestone_4 = {height = 44, width = 56, x = 0, y = 1585.99999488} --[[table: 07FA4CA0]]
+
+[LUA-print] libs/Atlas.lua:28 mode_1p = {height = 68, width = 64, x = 316.00001024, y = 1126.0000256} --[[table: 07FA5880]]
+
+[LUA-print] libs/Atlas.lua:28 mode_pvp = {height = 68, width = 64, x = 112, y = 1315.9999488} --[[table: 07FA6500]]
+
+[LUA-print] libs/Atlas.lua:28 new = {height = 14, width = 32, x = 2003.9999488, y = 304} --[[table: 07FA70E0]]
+
+[LUA-print] libs/Atlas.lua:28 number_context_00 = {height = 14, width = 12, x = 2035.9999488, y = 371.99998976} --[[table: 07FA7D10]]
+
+[LUA-print] libs/Atlas.lua:28 number_context_01 = {height = 14, width = 12, x = 300.00001024, y = 976} --[[table: 07FA8A30]]
+
+[LUA-print] libs/Atlas.lua:28 number_context_02 = {height = 14, width = 12, x = 316.00001024, y = 976} --[[table: 07FA9660]]
+
+[LUA-print] libs/Atlas.lua:28 number_context_03 = {height = 14, width = 12, x = 332.00001024, y = 976} --[[table: 07FAA290]]
+
+[LUA-print] libs/Atlas.lua:28 number_context_04 = {height = 14, width = 12, x = 348.00001024, y = 976} --[[table: 07FAAF60]]
+
+[LUA-print] libs/Atlas.lua:28 number_context_05 = {height = 14, width = 12, x = 228, y = 1088} --[[table: 07FABC30]]
+
+[LUA-print] libs/Atlas.lua:28 number_context_06 = {height = 14, width = 12, x = 228, y = 1105.99999488} --[[table: 07FAC860]]
+
+[LUA-print] libs/Atlas.lua:28 number_context_07 = {height = 14, width = 12, x = 244, y = 1088} --[[table: 07FAD530]]
+
+[LUA-print] libs/Atlas.lua:28 number_context_08 = {height = 14, width = 12, x = 244, y = 1105.99999488} --[[table: 07FAE160]]
+
+[LUA-print] libs/Atlas.lua:28 number_context_09 = {height = 14, width = 12, x = 259.99998976, y = 1088} --[[table: 07FAED90]]
+
+[LUA-print] libs/Atlas.lua:28 number_context_10 = {height = 14, width = 12, x = 259.99998976, y = 1105.99999488} --[[table: 07FAFA60]]
+
+[LUA-print] libs/Atlas.lua:28 number_context_11 = {height = 14, width = 14, x = 281.99999488, y = 976} --[[table: 07FB0690]]
+
+[LUA-print] libs/Atlas.lua:28 number_score_00 = {height = 20, width = 16, x = 2032, y = 48} --[[table: 07FB1310]]
+
+[LUA-print] libs/Atlas.lua:28 number_score_01 = {height = 20, width = 16, x = 2032, y = 72} --[[table: 07FB1F50]]
+
+[LUA-print] libs/Atlas.lua:28 number_score_02 = {height = 20, width = 16, x = 2032, y = 104} --[[table: 07FB2B30]]
+
+[LUA-print] libs/Atlas.lua:28 number_score_03 = {height = 20, width = 16, x = 2032, y = 128} --[[table: 07FB3710]]
+
+[LUA-print] libs/Atlas.lua:28 number_score_04 = {height = 20, width = 16, x = 2032, y = 152} --[[table: 07FB42F0]]
+
+[LUA-print] libs/Atlas.lua:28 number_score_05 = {height = 20, width = 16, x = 2032, y = 176} --[[table: 07FB4ED0]]
+
+[LUA-print] libs/Atlas.lua:28 number_score_06 = {height = 20, width = 16, x = 2016, y = 371.99998976} --[[table: 07FB5AB0]]
+
+[LUA-print] libs/Atlas.lua:28 number_score_07 = {height = 20, width = 16, x = 382.00000512, y = 872} --[[table: 07FB6690]]
+
+[LUA-print] libs/Atlas.lua:28 number_score_08 = {height = 20, width = 16, x = 382.00000512, y = 896} --[[table: 07FB7270]]
+
+[LUA-print] libs/Atlas.lua:28 number_score_09 = {height = 20, width = 16, x = 382.00000512, y = 920} --[[table: 07FB7E50]]
+
+[LUA-print] libs/Atlas.lua:28 pipe_down = {height = 320, width = 52, x = 1948.0000512, y = 0} --[[table: 07FB8A30]]
+
+[LUA-print] libs/Atlas.lua:28 pipe_up = {height = 320, width = 52, x = 0, y = 1126.0000256} --[[table: 07FB9660]]
+
+[LUA-print] libs/Atlas.lua:28 play = {height = 68, width = 64, x = 233.99999488, y = 1264} --[[table: 07FBA240]]
+
+[LUA-print] libs/Atlas.lua:28 progress_bar = {height = 18, width = 259.99998976, x = 0, y = 1449.9999744} --[[table: 07FBAEC0]]
+
+[LUA-print] libs/Atlas.lua:28 ready = {height = 48, width = 174.00000512, x = 56, y = 1264} --[[table: 07FBBB40]]
+
+[LUA-print] libs/Atlas.lua:28 score_panel = {height = 126.000001024, width = 238.00000512, x = 0, y = 872} --[[table: 07FBC770]]
+
+[LUA-print] libs/Atlas.lua:28 selector_p1 = {height = 100, width = 24, x = 2003.9999488, y = 0} --[[table: 07FBD3A0]]
+
+[LUA-print] libs/Atlas.lua:28 selector_p2 = {height = 100, width = 24, x = 2003.9999488, y = 104} --[[table: 07FBDFD0]]
+
+[LUA-print] libs/Atlas.lua:28 small_egg_p1 = {height = 16, width = 16, x = 241.99999488, y = 976} --[[table: 07FBEC00]]
+
+[LUA-print] libs/Atlas.lua:28 small_egg_p2 = {height = 16, width = 16, x = 262.00000512, y = 976} --[[table: 07FBF830]]
+
+[LUA-print] libs/Atlas.lua:28 title = {height = 120, width = 224, x = 0, y = 1001.9999744} --[[table: 07FC04B0]]
+
+[LUA-print] libs/Atlas.lua:28 tutorial = {height = 129.99999488, width = 52, x = 56, y = 1315.9999488} --[[table: 07FC10E0]]
+
+[LUA-print] libs/Atlas.lua:28 white = {height = 32, width = 32, x = 1984, y = 396.00001024} --[[table: 07FEBD70]]
+
+[LUA-print] libs/Atlas.lua:28 win = {height = 81.999998976, width = 136, x = 241.99999488, y = 872} --[[table: 07FEC950]]
+
+[LUA-print] app/scenes/LayerGame.lua:18 Game.topscore= 49
+
+[LUA-print] app/scenes/MainScene.lua:35 Happy Hacking
+
+[LUA-print] app/scenes/LayerGame.lua:192 layerGame:ready()
+
+[LUA-print] app/scenes/LayerGame.lua:194 LayerGame:ready Config.birdLives:1
+
+[LUA-print] app/scenes/Bird.lua:13 bird type = 3, Vy = 280
+
